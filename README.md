@@ -65,6 +65,24 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/akshu0072/ai-resume-analyser.git
 cd ai-resume-analyser
+
+---
+
+## 🧩 What I Learned
+
+- Integrating AI-powered features into a frontend-only application  
+- Using browser-based authentication and storage without a traditional backend  
+- Managing global state efficiently with Zustand  
+- Structuring scalable React applications using reusable components  
+- Implementing client-side routing with React Router  
+- Building responsive and modern UI using Tailwind CSS  
+- Writing maintainable, type-safe code with TypeScript  
+- Understanding real-world ATS-style resume evaluation logic  
+
+---
+
+## 📌 Acknowledgement
+
+This project was inspired by publicly available educational content and tutorials. The implementation has been customized and extended as part of a personal learning journey to better understand frontend architecture and AI integration in web applications.
