@@ -4,6 +4,8 @@ import {usePuterStore} from "~/lib/puter";
 import Summary from "~/components/Summary";
 import ATS from "~/components/ATS";
 import Details from "~/components/Details";
+import React from "react";
+
 
 export const meta = () => ([
     { title: 'Resumind | Review ' },
